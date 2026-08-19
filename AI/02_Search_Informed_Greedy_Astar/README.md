@@ -638,7 +638,3 @@ g(n) = 0 for all n          ← Makes A* behave exactly like Greedy (conceptuall
 
 - AIMA — Chapter 3.5-3.6 (Informed Search)
 - [Stanford CS221 — Heuristic Search](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)
-
----
-
-[⬅️ Prev: Uninformed Search](../01_Search_Uninformed/README.md) | [Back to Main](../README.md) | [Next: Memory-Bounded Heuristic Search ➡️](../03_Search_Memory_Bounded_Heuristic/README.md)
