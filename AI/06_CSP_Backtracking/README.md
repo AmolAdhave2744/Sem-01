@@ -2,7 +2,6 @@
 
 > **Difficulty**: 🟡 Medium | **Syllabus Section**: CSP | Backtracking, Arc Consistency, Forward Checking
 >
-> **Slides**: RB-M & SD-M | **Quiz Relevance**: ⭐⭐⭐⭐⭐
 
 ---
 
