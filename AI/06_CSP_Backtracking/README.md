@@ -534,4 +534,4 @@ If the cutset has c variables: O(d^c × (n-c) × d²)
 
 ---
 
-[⬅️ Prev: And-Or Search](../05_Search_And_Or/README.md) | [Back to Main](../README.md) | [Next: CSP — Local Search ➡️](../07_CSP_Local_Search/README.md)
+[⬅️ Prev: And-Or Search](../05_Search_And_Or/README.md) | [Back to Main](../README.md) |
